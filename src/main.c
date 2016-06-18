@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#include "rt.h"
+#include "sqr.h"
 
 int main ()
 {
